@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<module codename="org.netbeans.jade.filetype">
-    <module_version install_time="1290293200188" last="true" origin="installer" specification_version="1.0">
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.jade.filetype">
+    <module_version install_time="1399631675182" last="true" origin="installer" specification_version="1.0">
         <file crc="982484926" name="config/Modules/org-netbeans-jade-filetype.xml"/>
-        <file crc="4094792624" name="modules/org-netbeans-jade-filetype.jar"/>
+        <file crc="3434056640" name="modules/org-netbeans-jade-filetype.jar"/>
     </module_version>
 </module>

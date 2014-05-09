@@ -2,14 +2,6 @@
 
 For use with Jade - [http://jade-lang.com/](http://jade-lang.com/)
 
-While using Jade in Netbeans for Windows, I got annoyed with the lack of syntax highlighting. 
-Following the [syntax highlighting tutorial on Netbeans](http://wiki.netbeans.org/SyntaxColoringANTLR) I whipped up this
-very simple first pass at a Netbeans module.
-
-Hopefully it helps someone out! =D
-
-And as a disclaimer, I really have no idea what I'm doing, so please bear with me. But let me know if it doesn't work for some reason.
-
 The .nbm files are located in
 	
 	/build/updates/org-netbeans-jade-filetype.nbm
@@ -23,7 +15,7 @@ and
 
 (The MIT License)
 
-Copyright (c) 2009-2010 Matthew Herz &lt;lumenlunae@gmail.com&gt;
+Copyright (c) 2009-2010 Lastname Firstname &lt;firstname.lastname@gmail.com&gt;
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the

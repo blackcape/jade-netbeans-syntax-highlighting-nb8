@@ -2,7 +2,7 @@
 
 For use with Jade - [http://jade-lang.com/](http://jade-lang.com/)
 
-Most likely to be backward-compatible with older Netbeans versions (Not tested). Might have some dependensy issues.
+Most likely to be backward-compatible with older Netbeans versions (Not tested). Might have some dependency issues.
 
 The .nbm files are located in
 	

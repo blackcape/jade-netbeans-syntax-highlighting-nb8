@@ -2,6 +2,8 @@
 
 For use with Jade - [http://jade-lang.com/](http://jade-lang.com/)
 
+Most likely to be backward-compatible with older Netbeans versions (Not tested).
+
 The .nbm files are located in
 	
 	/build/updates/org-netbeans-jade-filetype.nbm

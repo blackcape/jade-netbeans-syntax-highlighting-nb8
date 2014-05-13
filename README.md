@@ -1,4 +1,4 @@
-# Jade Syntax Highligthing for Netbeans 8
+# Jade Syntax Highlighting for Netbeans 8
 
 For use with Jade - [http://jade-lang.com/](http://jade-lang.com/)
 
